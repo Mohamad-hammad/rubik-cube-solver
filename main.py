@@ -1,5 +1,3 @@
-#19L-2227: Syed M Hani
-#19L-1184: Hassan Salahuddin
 import copy
 import collections
 from collections import deque
